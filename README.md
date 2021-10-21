@@ -1,14 +1,14 @@
-  Hi There! I'm platform Software developer. 🚗
-  
-  
-  
-  <div align=center>
+    <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownybehind)](https://hits.seeyoufarm.com) 
 	
   </div>
+## DownyK : Automotive Platform Software Engineer 
 
+Hi There! I'm an automotive software developer. 🚗
+But after work, i'm developing mobile apps, web apps.
 
+And I am interested in developing blockchain and automated trading bots.
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
