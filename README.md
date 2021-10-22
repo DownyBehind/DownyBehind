@@ -24,9 +24,12 @@ I like to develop and I enjoy studying.</br>
 <img src="https://img.shields.io/badge/ASPICE-yellowgreen"/> </a>
 
 #### - Studying
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor#F7DF1E"/> </a>
 <img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=#61DAFB"/> </a>
 <img src="https://img.shields.io/badge/Node.js-Green?style=flat&logo=node.js&logoColor=#339933"/> </a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=#4FC08D"/> </a>
+<img src="https://img.shields.io/badge/Express.js-blue"/> </a>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=#E0234E"/> </a>
 
 
 ### _Tools_ <br/>
