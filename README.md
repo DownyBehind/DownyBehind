@@ -13,6 +13,16 @@ But after work, i'm developing mobile apps, web apps.<br/><br/>
 And I am interested in developing blockchain and automated trading bots.<br/>
 
 I like to develop and I enjoy studying.</br>
+
+### Skills <br/>
+
+#### Proficient
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=C&logoColor=#A8B9CC"/>
+
+### Tools <br/>
+
+
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
