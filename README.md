@@ -14,14 +14,28 @@ And I am interested in developing blockchain and automated trading bots.<br/>
 
 I like to develop and I enjoy studying.</br>
 
-### Skills <br/>
+### _Skills_ <br/> 
 
-#### Proficient
-<img src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=#A8B9CC"/>
+#### - Proficient
+<img src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=#A8B9CC"/> </a>
+<img src="https://img.shields.io/badge/C++-orange?style=flat&logo=c%2B%2B&logoColor=#00599C"/> </a>
+<img src="https://img.shields.io/badge/autosar-red"/> </a>
+<img src="https://img.shields.io/badge/ISO26262-yellow"/> </a>
+<img src="https://img.shields.io/badge/ASPICE-yellowgreen"/> </a>
 
-### Tools <br/>
+#### - Studying
+<img src="https://img.shields.io/badge/React-blue?style=flat&logo=React&logoColor=#61DAFB"/> </a>
+<img src="https://img.shields.io/badge/Node.js-Green?style=flat&logo=node.js&logoColor=#339933"/> </a>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=#4FC08D"/> </a>
 
 
+### _Tools_ <br/>
+<img src="https://img.shields.io/badge/git-orange?style=flat&logo=Git&logoColor=#F05032"/> </a>
+<img src="https://img.shields.io/badge/integrity-green"/> </a>
+<img src="https://img.shields.io/badge/Davinci-blueviolet"/> </a>
+<img src="https://img.shields.io/badge/Enterprose Architecture-blue"/> </a>
+<img src="https://img.shields.io/badge/matlab-black"/> </a>
+<img src="https://img.shields.io/badge/Trace32-E15718"/> </a>
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
