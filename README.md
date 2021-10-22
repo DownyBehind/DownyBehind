@@ -51,6 +51,12 @@ I like to develop and I enjoy studying.</br>
 
 <div align="left">
 2. DWOS - Dummy Operation System - very very simple OS (Developing)
+<br/><br/>
+</div>
+
+<div align="left">
+3. DWBot - AutoTradingBot using CCXT and Pinescript (Developing)
+<br/><br/>
 </div>
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
