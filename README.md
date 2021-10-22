@@ -58,6 +58,11 @@ I like to develop and I enjoy studying.</br>
 3. DWBot - AutoTradingBot using CCXT and Pinescript (Developing)
 <br/><br/>
 </div>
+
+<div align="left">
+4. Freeasy Web App - O2O market Service (Planning)
+<br/><br/>
+</div>
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
