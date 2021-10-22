@@ -42,7 +42,15 @@ I like to develop and I enjoy studying.</br>
 
 ### _My Side Project_ <br/>
 
-  
+<div align="Left">
+<img src="https://user-images.githubusercontent.com/41497254/138383991-6103151b-18c0-40ba-a557-8232baf02411.png" width="50" height="50"><br/>
+Freeasy - 프리지 - 우리집 냉장고 정리 <br/>
+<img src="https://img.shields.io/badge/ios-000000?style=flat&logo=iOS&logoColor=#000000"/><br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=#3DDC84"/> 	
+
+
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
