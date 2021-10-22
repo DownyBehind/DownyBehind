@@ -17,7 +17,7 @@ I like to develop and I enjoy studying.</br>
 ### Skills <br/>
 
 #### Proficient
-<img src="https://img.shields.io/badge/C-pink?style=flat&logo=C&logoColor=#A8B9CC"/>
+<img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=#A8B9CC"/>
 
 ### Tools <br/>
 
