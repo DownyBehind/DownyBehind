@@ -50,12 +50,12 @@ I like to develop and I enjoy studying.</br>
 </div>
 
 <div align="left">
-2. DWOS - Dummy Operation System - very very simple OS (Developing)
+2. DwOS - Dummy Operation System - very very simple OS (Developing)
 <br/><br/>
 </div>
 
 <div align="left">
-3. DWBot - AutoTradingBot using CCXT and Pinescript (Developing)
+3. DwBot - AutoTradingBot using CCXT and Pinescript (Developing)
 <br/><br/>
 </div>
 
