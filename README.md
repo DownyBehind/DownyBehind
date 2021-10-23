@@ -45,7 +45,7 @@ I like to develop and I enjoy studying.</br>
 <div align="Left">
 <img src="https://user-images.githubusercontent.com/41497254/138383991-6103151b-18c0-40ba-a557-8232baf02411.png" width="50" height="50"><br/>
 1. Freeasy - 프리지 - 우리집 냉장고 정리 (Release) with Bona-fide team <br/>
-<a href="https://apps.apple.com/kr/app/freeasy/id1558489505"> <img src="https://img.shields.io/badge/ios          App Download -000000?style=flat&logo=iOS&logoColor=#000000"/><br/> </a>
+<a href="https://apps.apple.com/kr/app/freeasy/id1558489505"> <img src="https://img.shields.io/badge/ios        App Download -000000?style=flat&logo=iOS&logoColor=#000000"/><br/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.bonafide.freeasy&hl=ko&gl=US"> <img src="https://img.shields.io/badge/Android App Download -3DDC84?style=flat&logo=Android&logoColor=#3DDC84"/></a> 	<br/><br/>
 </div>
 
