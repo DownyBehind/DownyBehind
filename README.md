@@ -63,8 +63,10 @@ I like to develop and I enjoy studying.</br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kim1023123)](https://solved.ac/kim1023123)
+![](https://boj-badge.herokuapp.com/?id=kim1023123&label=BOJ-solved&query=solved+a)
 
-
+[![LeetCode user downyk](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdownyk&logo=leetcode&logoColor=yellow)](https://leetcode.com/downyk/)
+![downyk](https://road-to-kaggle-grandmaster.vercel.app/api/simple/downyk)
 
 <!--
 **DownyBehind/DownyBehind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
