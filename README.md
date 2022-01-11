@@ -32,14 +32,6 @@ I like to develop and I enjoy studying.</br>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=#E0234E"/> </a>
 
 
-### _Tools_ <br/>
-<img src="https://img.shields.io/badge/git-orange?style=flat&logo=Git&logoColor=#F05032"/> </a>
-<img src="https://img.shields.io/badge/integrity-green"/> </a>
-<img src="https://img.shields.io/badge/Davinci-blueviolet"/> </a>
-<img src="https://img.shields.io/badge/Enterprose Architecture-blue"/> </a>
-<img src="https://img.shields.io/badge/matlab-black"/> </a>
-<img src="https://img.shields.io/badge/Trace32-E15718"/> </a>
-
 ### _My Side Project_ <br/>
 
 <div align="Left">
@@ -51,17 +43,14 @@ I like to develop and I enjoy studying.</br>
 
 <div align="left">
 2. DwOS - Dummy Operation System - very very simple OS (Developing)
-<br/><br/>
 </div>
 
 <div align="left">
 3. DwBot - AutoTradingBot using CCXT and Pinescript (Developing)
-<br/><br/>
 </div>
 
 <div align="left">
 4. Freeasy Web App - O2O market Service (Planning)
-<br/><br/>
 </div>
 
 <div align="left">
