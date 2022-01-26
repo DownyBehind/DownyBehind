@@ -51,7 +51,7 @@ I like to develop and I enjoy studying.</br>
 </div>
 
 <div align="left">
-5. Clone Coding - Youtude, Netflix, instagram, blockchain Data structure etc... (Studying and coding everyday)
+5. Clone Coding - Youtube, Netflix, instagram, blockchain Data structure etc... (Studying and coding everyday)
 <br/><br/>
 </div>
 	
