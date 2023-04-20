@@ -66,7 +66,6 @@ I like to develop and I enjoy studying.</br>
 
 ![](https://www.codewars.com/users/DownyBehind/badges/micro)
 
-![downyk](https://road-to-kaggle-grandmaster.vercel.app/api/simple/downyk)
 
 <!--
 **DownyBehind/DownyBehind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
