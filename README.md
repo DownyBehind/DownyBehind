@@ -8,7 +8,7 @@
 ## DownyK : Automotive Platform Software Engineer 
 
 Hi There! I'm an automotive software developer. 🚗<br/>
-But after work, i'm developing mobile apps, web apps.<br/>
+But after work, I'm developing mobile apps and web apps.<br/>
 And I am interested in developing blockchain and automated trading bots.<br/>
 I like to develop and I enjoy studying.</br>
 
