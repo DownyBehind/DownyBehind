@@ -5,7 +5,7 @@
 	
   </div>
   
-## DownyK : Automotive Platform Software Engineer 
+## Leo Kim : Automotive Platform Software Engineer 
 
 Hi There! I'm an automotive software developer. 🚗<br/>
 But after work, I'm developing mobile apps and web apps.<br/>
