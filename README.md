@@ -54,6 +54,13 @@ I like to develop and I enjoy studying.</br>
 5. Clone Coding - Youtube, Netflix, instagram, blockchain Data structure etc... (Studying and coding everyday)
 <br/><br/>
 </div>
+
+## Study List
+
+- [ ] AWS-SAA-C03
+- [ ] TOEFL above 100
+- [ ] OMSCS
+- [ ] CFA Lv 1
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
