@@ -5,7 +5,7 @@
 	
   </div>
   
-## Leo Kim : Automotive Platform Software Engineer 
+## Leo Kim: Automotive Platform Software Engineer 
 
 Hi There! I'm an automotive software developer. 🚗<br/>
 But after work, I'm developing mobile apps and web apps.<br/>
@@ -51,7 +51,7 @@ I like to develop and I enjoy studying.</br>
 </div>
 
 <div align="left">
-5. Clone Coding - Youtube, Netflix, instagram, blockchain Data structure etc... (Studying and coding everyday)
+5. Clone Coding - Youtube, Netflix, Instagram, blockchain Data structure etc... (Studying and coding every)
 <br/><br/>
 </div>
 
