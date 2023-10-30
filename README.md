@@ -57,7 +57,7 @@ I like to develop and I enjoy studying.</br>
 
 ## Study List
 
-- [ ] AWS-SAA-C03
+- [x] AWS-SAA-C03
 - [ ] TOEFL above 100
 - [ ] OMSCS
 - [ ] CFA Lv 1
