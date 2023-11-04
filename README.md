@@ -59,6 +59,7 @@ I like to develop and I enjoy studying.</br>
 
 - [x] AWS-SAA-C03
 - [ ] GTx Probability and Statistics 1 ~ 4
+- [ ] AWS-DVA-C02
 - [ ] TOEFL above 100
 - [ ] OMSCS
 - [ ] CFA Lv 1
