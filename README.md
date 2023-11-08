@@ -55,16 +55,19 @@ I like to develop and I enjoy studying.</br>
 <br/><br/>
 </div>
 
-## Study List
+## Study List ~2024
 
 - [x] AWS-SAA-C03
 - [ ] GTx Probability and Statistics 1 ~ 4
 - [ ] AWS-DVA-C02
 - [ ] TOEFL above 100
+- [ ] MITx Statistics and Data Science MicroMasters Program
+- [ ] Introduction to Linux
+
+## Study Long Term
 - [ ] OMSCS
 - [ ] CFA Lv 1
-- [ ] MITx Statistics and Data Science MicroMasters Program
-- [ ] Introduction to Linux 
+
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downybehind&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
