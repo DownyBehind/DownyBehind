@@ -55,6 +55,10 @@ I like to develop and I enjoy studying.</br>
 <br/><br/>
 </div>
 
+## Side projects
+- IOT - DID Lecture
+- Unity based Game
+
 ## Study List ~2024
 
 - [x] AWS-SAA-C03
