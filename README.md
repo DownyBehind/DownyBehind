@@ -56,7 +56,7 @@ I like to develop and I enjoy studying.</br>
 </div>
 
 ## Side projects
-- IOT - DID Lecture
+- IoT - DID Lecture
 - Unity based Game
 
 ## Study List ~2024
