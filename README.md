@@ -56,14 +56,15 @@ I like to develop and I enjoy studying.</br>
 </div>
 
 ## Side projects
-- IoT - DID Lecture
-- Unity based Game
+- IoT - DID Lecture [Completed]
+- ~~Unity based Game~~ [Canceled]
 
 ## Study List ~2024
 
 - [x] AWS-SAA-C03
 - [ ] GTx Probability and Statistics 1 ~ 4
 - [ ] AWS-DVA-C02
+- [ ] JLPT N3
 - [ ] TOEFL above 100
 - [ ] MITx Statistics and Data Science MicroMasters Program
 - [ ] Introduction to Linux
