@@ -33,8 +33,7 @@ I like to develop and I enjoy studying.</br>
 
 <div align="Left">
 <img src="https://user-images.githubusercontent.com/41497254/138383991-6103151b-18c0-40ba-a557-8232baf02411.png" width="50" height="50"><br/>
-1. Freeasy - 프리지 - 우리집 냉장고 정리 (Release) with Bona-fide team [~2024.04.28 이후 서비스 중단] <br/>
-	<br/><br/>
+1. Freeasy - 프리지 - 우리집 냉장고 정리 (Release) with Bona-fide team [~2024.04.28 이후 서비스 중단]
 </div>
 
 <div align="left">
