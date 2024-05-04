@@ -37,19 +37,11 @@ I like to develop and I enjoy studying.</br>
 </div>
 
 <div align="left">
-2. DwOS - Dummy Operation System - very very simple OS (Developing)
+2. DwBot - AutoTradingBot using CCXT and Pinescript (Developing)
 </div>
 
 <div align="left">
-3. DwBot - AutoTradingBot using CCXT and Pinescript (Developing)
-</div>
-
-<div align="left">
-4. Freeasy Web App - O2O market Service (Planning)
-</div>
-
-<div align="left">
-5. Clone Coding - Youtube, Netflix, Instagram, blockchain Data structure etc... (Studying and coding every)
+3. Clone Coding - Youtube, Netflix, Instagram, blockchain Data structure etc... (Studying and coding every)
 <br/><br/>
 </div>
 
