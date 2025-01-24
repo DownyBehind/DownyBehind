@@ -52,7 +52,10 @@ I like to develop and I enjoy studying.</br>
 ## Study List ~2024
 
 - [x] AWS-SAA-C03
-- [ ] GTx Probability and Statistics 1 ~ 4
+- [x] GTx Probability and Statistics 1 ~ 4
+
+## Study List ~2025
+
 - [ ] AWS-DVA-C02
 - [ ] JLPT N3
 - [ ] TOEFL above 100
