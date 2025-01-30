@@ -52,10 +52,10 @@ I like to develop and I enjoy studying.</br>
 ## Study List ~2025
 
 - [ ] Complete the first and second semesters of graduate school and devote myself entirely to research 
+- [ ] MITx Statistics and Data Science MicroMasters Program (almost done..)
+- [ ] TOEFL above 100
 - [ ] AWS-DVA-C02
 - [ ] JLPT N3
-- [ ] TOEFL above 100
-- [ ] MITx Statistics and Data Science MicroMasters Program
 - [ ] Introduction to Linux
 
 ## Study Long Term
