@@ -17,8 +17,8 @@ I like to develop and I enjoy studying.</br>
 #### - Proficient
 <img src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=#A8B9CC"/> </a>
 <img src="https://img.shields.io/badge/C++-orange?style=flat&logo=c%2B%2B&logoColor=#00599C"/> </a>
-<img src="https://img.shields.io/badge/autosar-red"/> </a>
-<img src="https://img.shields.io/badge/ISO26262-yellow"/> </a>
+<img src="https://img.shields.io/badge/AUTOMOTIVE Embedded Software-red"/> </a>
+<img src="https://img.shields.io/badge/Functional Safety-yellow"/> </a>
 
 #### - Studying
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor#F7DF1E"/> </a>
