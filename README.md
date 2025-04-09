@@ -1,10 +1,3 @@
-    
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownybehind)](https://hits.seeyoufarm.com) 
-	
-  </div>
-  
 ## Leo Kim: Automotive Platform Software Engineer 
 
 Hi There! I'm an automotive software developer. 🚗<br/>
